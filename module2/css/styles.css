@@ -138,6 +138,7 @@ p {
 #beef
 {
   background-color: orange;
+  border: 1px solid black;
   margin:0;
   padding:0;
   text-align: right;
@@ -145,6 +146,7 @@ p {
 #sushi
 {
   background-color: #77ffff;
+  border: 1px solid black;
   margin:0;
   padding:0;
   text-align: right;
